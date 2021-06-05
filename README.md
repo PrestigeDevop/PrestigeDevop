@@ -1,3 +1,7 @@
+
+$ the project description
+
+
 - 👋 Hi, I’m @PrestigeDevop
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning python 
