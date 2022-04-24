@@ -1,5 +1,5 @@
 yay
-$ the project description
+$ the project description : Hello world!
 
 
 - 👋 Hi, I’m @PrestigeDevop
