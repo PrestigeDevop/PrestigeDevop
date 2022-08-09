@@ -1,10 +1,16 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> veteran ludologist </h1> </div>
 
 # About Me
- - 👋 Hi, I’m @PrestigeDevop - 👀 I’m interested in biomedical informatic - 🌱 I’m currently learning Datascience - 💞️ I’m looking to collaborate on full stack development for .net core projects - 📫 How to reach me:DM @metainventive
+ - 👋 Hi, I’m @PrestigeDevop 
+ - 👀 I’m interested in biomedical informatic 
+ - 🌱 I’m currently learning Datascience 
+ - 💞️ I’m looking to collaborate on full stack development for .net core projects 
+ - 📫 How to reach me:DM @metainventive
 
-
+prestigedevop.com
 # Tech Stack
+TypeScript& C# fuesopen and Python. among others 
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
