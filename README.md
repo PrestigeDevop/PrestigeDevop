@@ -9,10 +9,10 @@
 
 
 # Tech Stack
- - Hybird(web and desktop): JS and C# blazormaui binding.
+ - Hybird(web and desktop): JS and C# blazormaui binding and svelekit pwa.
  - Game Engine: Unity.
  - native mobile app development: fuesopen 
- - AI&ML: Python and onnx runtime
+ - AI&ML: Python ,Spark,R and onnx runtime
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
