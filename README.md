@@ -1,11 +1,11 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> veteran ludologist </h1> </div>
 
 # About Me
- - 👋 Hi, I’m @Mode7Studio
+ - 👋 Hi, I’m @Mode7Studio undergrad  bioinformatic - gamedev
  - 👀 I’m interested in biomedical informatic / Biotic Game Design
  - 🌱 I’m currently learning Datascience 
  - 💞️ I’m looking to collaborate on full stack development for .net core projects 
- - 📫 How to reach me:DM @mode7_studios
+ - 📫 How to reach me:DM @mode7_studio
 
 
 # Tech Stack
