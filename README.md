@@ -1,15 +1,15 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> veteran ludologist </h1> </div>
 
 # About Me
- - 👋 Hi, I’m @PrestigeDevop 
- - 👀 I’m interested in biomedical informatic 
+ - 👋 Hi, I’m @Mode7Studio
+ - 👀 I’m interested in biomedical informatic / Biotic Game Design
  - 🌱 I’m currently learning Datascience 
  - 💞️ I’m looking to collaborate on full stack development for .net core projects 
  - 📫 How to reach me:DM @mode7_studios
 
 
 # Tech Stack
- - Hybird(web and desktop): JS and C# blazormaui binding and svelekit pwa.
+ - Hybird(web and desktop): JS and C# blazormaui binding and svelekit +prisma.
  - Game Engine: Unity.
  - native mobile app development: fuesopen 
  - AI&ML: Python ,Spark,R and onnx runtime
