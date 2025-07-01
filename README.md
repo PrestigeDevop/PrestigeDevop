@@ -4,7 +4,7 @@
  - 👋 Hi, I’m @Mode7Studio undergrad  bioinformatic - gamedev
  - 👀 I’m interested in bioinformatic and system biology / Biotic Game Design
  - 🌱 I’m currently re-learning Datascience with foucus on fundamentals of  reinforcement learning and neural netowrks
- - 💞️ I’m looking to collaborate on open science projects utltizes bigdata
+ - 💞️ I’m looking to collaborate on open science projects utilizing bigdata tools 
  - 📫 How to reach me:mention me @mode7_studio
 
 
