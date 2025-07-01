@@ -1,15 +1,15 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> veteran ludologist </h1> </div>
 
 # About Me
- - 👋 Hi, I’m @Mode7Studio undergrad  bioinformatic - gamedev
+ - 👋 Hi, I’m  undergrad  bioinformatic - gamedev
  - 👀 I’m interested in bioinformatic and system biology / Biotic Game Design
  - 🌱 I’m currently re-learning Datascience with foucus on fundamentals of  reinforcement learning and neural netowrks
  - 💞️ I’m looking to collaborate on open science projects utilizing bigdata tools 
- - 📫 How to reach me:mention me @mode7_studio
+ 
 
 
 # Tech Stack
- - Hybird(web and desktop): JS and C# blazormaui binding and svelekit +prisma(zenstack).
+ - Hybird(web&desktop): JS-C# blazormaui binding and svelekit +prisma(zenstack).
  - Game Engine: Unity.
  - native mobile app development: fuesopen 
  - AI&ML: Python ,Spark,R and onnx runtime
