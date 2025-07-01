@@ -2,14 +2,14 @@
 
 # About Me
  - 👋 Hi, I’m @Mode7Studio undergrad  bioinformatic - gamedev
- - 👀 I’m interested in biomedical informatic / Biotic Game Design
- - 🌱 I’m currently learning Datascience 
- - 💞️ I’m looking to collaborate on full stack development for .net core projects 
- - 📫 How to reach me:DM @mode7_studio
+ - 👀 I’m interested in bioinformatic and system biology / Biotic Game Design
+ - 🌱 I’m currently re-learning Datascience with foucus on fundamentals of  reinforcement learning and neural netowrks
+ - 💞️ I’m looking to collaborate on open science projects utltizes bigdata
+ - 📫 How to reach me:mention me @mode7_studio
 
 
 # Tech Stack
- - Hybird(web and desktop): JS and C# blazormaui binding and svelekit +prisma.
+ - Hybird(web and desktop): JS and C# blazormaui binding and svelekit +prisma(zenstack).
  - Game Engine: Unity.
  - native mobile app development: fuesopen 
  - AI&ML: Python ,Spark,R and onnx runtime
